@@ -29,6 +29,12 @@
         android:fragment="com.potato.fries.fragments.StatusBarBattery"
         android:icon="@drawable/ic_battery"/>
 
+    <Preference
+        android:key="traffic"
+        android:fragment="com.potato.fries.fragments.Traffic"
+        android:icon="@drawable/ic_traffic"
+        android:title="@string/traffic_title" />
+
     <com.potato.fries.preferences.SystemSettingSwitchPreference
         android:key="roaming_indicator_icon"
         android:title="@string/roaming_indicator_icon_title"

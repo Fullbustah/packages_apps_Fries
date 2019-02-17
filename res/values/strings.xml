@@ -76,6 +76,9 @@
     <string name="clock_date_left">Left of time</string>
     <string name="clock_date_position">Date position</string>
 
+    <!-- Network traffic -->
+    <string name="traffic_title">Traffic indicators</string>
+
     <!-- Face auto unlock -->
     <string name="face_auto_unlock_title">Face auto unlock</string>
     <string name="face_auto_unlock_summary">Dismiss lockscreen after face unlocking</string>
@@ -345,5 +348,14 @@
     <string name="torch_power_button_gesture_none">Disabled</string>
     <string name="torch_power_button_gesture_dt">Double tap power to toggle torch (will add a small delay to single tap)</string>
     <string name="torch_power_button_gesture_lp">Long press power to toggle torch</string>
+
+    <!-- Network traffic -->
+    <string name="network_traffic_title">Network traffic</string>
+    <string name="network_traffic_type">Select net activity type</string>
+    <string name="show_network_traffic_up">Uplink</string>
+    <string name="show_network_traffic_down">Downlink</string>
+    <string name="show_network_traffic_all">Uplink and Downlink</string>
+    <string name="network_traffic_state_title">Show net activity in statusbar</string>
+    <string name="network_traffic_autohide_threshold_title">Net activity autohide threshold (KB/s)</string>
 
 </resources>
